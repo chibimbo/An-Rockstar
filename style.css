@@ -158,8 +158,8 @@ body {
   line-height:1;
   transform:scaleY(1);
   transform-origin:top center;
-  color:rgba(190,215,255,.3);
-  -webkit-text-stroke:1.2px rgba(255,255,255,.85);
+  color:rgba(255,255,255,.95);
+  -webkit-text-stroke:0px rgba(255,255,255,.85);
   filter:drop-shadow(0 0 6px rgba(255,255,255,.35))
 }
 
