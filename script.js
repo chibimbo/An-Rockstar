@@ -8,7 +8,7 @@ try {
   }
 }
 catch (e) { }
-const WALL0 = "https://github.com/chibimbo/An-Rockstar/blob/main/images/wallpaper%20azzo.jpg?raw=true"
+const WALL0 = "https://raw.githubusercontent.com/chibimbo/An-Rockstar/main/images/wallpaper%20azzo.jpg";
 const SPOTIFY_PLAYLIST = "1dtnogrYRyqCUm3gy4WRoa"; // your playlist ID (open.spotify.com/playlist/ID)
 /* ================== */
 const $ = s => document.querySelector(s), $$ = s => [...document.querySelectorAll(s)];
