@@ -1,5 +1,5 @@
 /* ===== CONFIG ===== */
-const PASSCODE = "0411";
+const PASSCODE = "0831";
 // Refresh only the demo phone/message data once for this update; wallpaper, notes and photos stay untouched.
 try {
   if (localStorage.getItem("iphoneSeedVersion") !== "2") {
